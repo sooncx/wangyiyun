@@ -1,0 +1,65 @@
+/*底部文字区*/
+.g-ft {
+    position: relative;
+    height: 148px;
+    overflow: hidden;
+    border-top: 1px solid #d3d3d3;
+    background: #f2f2f2;
+}
+.m-ft {
+    width: 980px;
+    margin: 0 auto;
+}
+.m-ft .copy {
+    float: left;
+    width: 520px;
+    padding-top: 15px;
+    line-height: 24px;
+}
+.s-fc4{
+    color: #999;
+    font-size: 14px;
+}
+.m-ft .copy .line {
+    margin: 0 8px 0 10px;
+    color: #c2c2c2;
+}
+.s-fc3{
+    color: #666;
+    font-size: 10px;
+}
+.m-ft .copy .sep {
+    margin-right: 14px;
+}
+.m-ft .enter {
+    width: 420px;
+    margin-top: 21px;
+}
+.f-fr {
+    float: right;
+}
+.f-tid{
+    text-indent: -9999px;
+}
+.m-ft .logo {
+    float: left;
+    width: 60px;
+    height: 70px;
+    margin-left: 30px;
+}
+.m-ft .logo-musician {
+    background: url("../images/foot_enter.png") no-repeat -60px -80px;
+    margin-left: 0;
+}
+.m-ft .logo-topic {
+    background: url("../images/foot_enter.png") no-repeat 0px -80px;
+}
+.m-ft .logo-media {
+    background: url("../images/foot_enter.png") no-repeat 0px 0px;
+}
+.m-ft .logo-reward {
+    background: url("../images/foot_enter.png") no-repeat -60px 0px;
+}
+.m-ft .logo-cash {
+    background: url("../images/cash.png") no-repeat;
+}
